@@ -1,7 +1,7 @@
 battleship
 ==========
 
-GAME Description:
+Game Description:
 *******************************************************************************
 Each player will secretly deploy 5 ships of different sizes into a 10x10 board.
 The 5 ships are: aircraft carrier (a) of size 5, battleship (b) of size 4, 
