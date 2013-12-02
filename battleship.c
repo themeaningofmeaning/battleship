@@ -1,4 +1,4 @@
-// Dylan Goldfus
+// Dylan G.
 // My version of BattleShip...just compile and run
 /*		
 			GAME DESCRIPTION:
