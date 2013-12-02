@@ -1,4 +1,4 @@
-battleship
+battleship (compile and run)
 ==========
 
 Game Description:
